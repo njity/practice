@@ -1,10 +1,2 @@
 Hello this is file 1.
 
-Now I am making changes to this file.
-
-
-
-We make a conflict here I think?
-Another edit  but different.
-
-hello this is another branch
